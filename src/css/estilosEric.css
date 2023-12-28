@@ -419,6 +419,6 @@ iframe {
   /* Sección Seis Sombreros */
   .contenedor-imagenes{
 	justify-content: space-around;
-	flex-wrap: nowrap;
+	
  }
 }
